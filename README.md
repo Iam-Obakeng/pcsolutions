@@ -53,15 +53,5 @@ python app.py
 - **Default Credentials**: 
   - Username: `admin`
   - Password: `obby123`
-
----
-
-## 📍 CONTACT & BUSINESS INFO
-- **Technician**: Obakeng Kobuane
-- **HQ**: North West University, Mafikeng
-- **WhatsApp**: 072 010 3533
-- **Emergency Line**: 073 981 4050
-- **Email**: obakengkobuane16@gmail.com
-
 ---
 *Developed with excellence to ensure that every NWU student's computer stays in the right hands.*
